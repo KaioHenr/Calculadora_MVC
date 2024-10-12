@@ -1,0 +1,13 @@
+org\example\view\Menu.class
+org\example\dto\RequestDTO.class
+org\example\model\operation\Subtrair.class
+org\example\model\operation\Somar.class
+org\example\application\Main.class
+org\example\model\CalcX.class
+org\example\dto\ResponseDTO.class
+org\example\model\ICalc.class
+org\example\controller\ControllerCalc.class
+org\example\model\operation\Multiplicar.class
+org\example\model\operation\IOperation.class
+org\example\model\operation\Dividir.class
+org\example\model\Calc.class
